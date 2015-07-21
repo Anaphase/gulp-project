@@ -1,0 +1,22 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "authors": [],
+  "description": "Project description.",
+  "main": "client/public/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "angular-animate": "~1.4.3",
+    "angular-sanitize": "~1.4.3",
+    "normalize.css": "~3.0.3"
+  }
+}
